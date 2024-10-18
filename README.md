@@ -1,4 +1,4 @@
-# Página Imnobiliária (Devmedia)
+# Página Imobiliária (Devmedia)
 Projeto feito com HTML e CSS, faz parte da trilha de front-end da Devmedia.
 
 <h1 align="center">
